@@ -1,8 +1,7 @@
-# uxioms
-
+# UXioms
 > experience the axioms of UX
 
-## Build Setup
+## Build Setup (thanks to Vue)
 
 ``` bash
 # install dependencies
